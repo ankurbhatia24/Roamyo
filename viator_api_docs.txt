@@ -1,0 +1,7 @@
+1. *Viator api docs* - https://docs.viator.com/partner-api/merchant/technical/index.html#tag/Booking-services/paths/~1booking~1pastbooking/get
+
+2. *Top 10 hotels api* - https://medium.com/rakuten-rapidapi/top-10-best-hotel-apis-airbnb-tripadvisor-expedia-and-more-222561e357d5
+
+3. *Understanding Rest APi's* - https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
+
+4. 

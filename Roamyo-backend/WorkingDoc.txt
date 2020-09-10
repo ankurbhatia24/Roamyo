@@ -1,0 +1,6 @@
+Deploy application on Elastic Beanstalk: https://towardsdatascience.com/deploying-a-flask-application-on-aws-elastic-beanstalk-via-cli-c0e93548472e
+Integrate Swagger UI with flask: https://www.youtube.com/watch?v=rIsEbsvuOlM
+Medium Blog for above* - https://medium.com/@sean_bradley/add-swagger-ui-to-your-python-flask-api-683bfbb32b36
+Documenting API with swagger (Doccumentation - But its flask restplus?) - https://flask-restplus.readthedocs.io/en/0.2/documenting.html
+
+
