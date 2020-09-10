@@ -14,8 +14,8 @@ api = Api(app)
 # todos = {}
 
 amadeus = Client(
-    client_id='5pZNdbai1cLUytvst9fmHDaakOst5ymk',
-    client_secret='A0RjuxYl7As0TMG8'
+    client_id='',
+    client_secret=''
 )
 
 
@@ -37,7 +37,7 @@ def totalCost(place,
                 print(place)
 
                 # YOUR_ACCESS_KEY = 'GET YOUR ACCESS KEY FROM fixer.io' 
-                # url = str.__add__('http://data.fixer.io/api/latest?access_key=', "9563c66997a086cde782d17a3dace603") 
+                # url = str.__add__('http://data.fixer.io/api/latest?access_key=', "") 
                 # c = Currency_convertor(url) 
                 # from_country = "USD"
                 # to_country = "INR"
@@ -219,7 +219,7 @@ def top_20_products(destId
                 'Accept': 'application/json',
                 'Content-Type': 'application/json',
                 'Accept-Language': 'en-US',
-                'exp-api-key': 'bdd2e07e-6022-467f-8236-a4f1484a6885',  #Hide api key in production code
+                'exp-api-key': '',  #Hide api key in production code
                 'Content-Type': 'application/json'
                 }
                 response = requests.request("POST", url, headers=headers, data = json.dumps(payload))
