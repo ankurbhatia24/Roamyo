@@ -13,8 +13,8 @@ cols = db.list_collection_names()
 
 
 amadeus = Client(
-    client_id='5pZNdbai1cLUytvst9fmHDaakOst5ymk',
-    client_secret='A0RjuxYl7As0TMG8'
+    client_id='',
+    client_secret=''
 )
 
 
